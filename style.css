@@ -1,0 +1,7 @@
+body {
+    background-color: rgb(247, 136, 191);
+  } 
+
+  .nav.navbar-nav li a {
+    color: black;
+  }
